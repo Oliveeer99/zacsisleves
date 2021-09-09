@@ -1,0 +1,23 @@
+body{
+    color: #57290a;
+}
+
+h1{
+    font-size: 300%;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-size: 200%;
+    text-align: center;
+    color: white
+}
+
+.közép{
+    text-align: center;
+}
+
+td{
+    background-color: green;
+}
